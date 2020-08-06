@@ -25,3 +25,5 @@ Total Credits: 85
 [Unisoft Logon](https://academico.upaep.mx/UnisoftV4/login/login.jsp)
 
 [Dual Degree Description](https://www.upaep.mx/posgrados/internacionalizacion/oklahoma)
+
+[Dual Degree List of Subjects](http://catalog.okstate.edu/graduate-college/masters-degrees/management-information-systems-ms/)
