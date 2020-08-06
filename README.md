@@ -26,4 +26,6 @@ Total Credits: 85
 
 [Dual Degree Description](https://www.upaep.mx/posgrados/internacionalizacion/oklahoma)
 
-[Dual Degree List of Subjects](http://catalog.okstate.edu/graduate-college/masters-degrees/management-information-systems-ms/)
+[Dual Degree Option 1 - List of Subjects](http://catalog.okstate.edu/graduate-college/masters-degrees/management-information-systems-ms/)
+
+[Dual Degree Option 2 - List of Subjects](https://etm.okstate.edu/node/28)
