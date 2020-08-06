@@ -8,6 +8,9 @@
        https://www.datasciencecentral.com/profiles/blogs/the-fundamentals-of-data-science
 
 * MODELS FOR DATA SCIENCE (7 Credits)
+
+       https://www.datasciencegraduateprograms.com/data-modeling/
+
 * MACHINE LEARNING FOR DATA SCIENCE (7 Credits)
 * DATA VISUALIZATION (7 Credits)
 * DATA WAREHOUSING AND DATA PROCESSING (7 Credits)
