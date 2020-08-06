@@ -4,6 +4,7 @@
 
 
 * DATA SCIENCE FUNDAMENTALS (7 Credits)
+
 ** https://www.datasciencecentral.com/profiles/blogs/the-fundamentals-of-data-science
 * MODELS FOR DATA SCIENCE (7 Credits)
 * MACHINE LEARNING FOR DATA SCIENCE (7 Credits)
