@@ -23,3 +23,5 @@ Total Credits: 85
 [Program Description](https://upaep.mx/maestrias/vc-ciencia-de-datos-e-inteligencia-de-negocios?lang=en)
 
 [Unisoft Logon](https://academico.upaep.mx/UnisoftV4/login/login.jsp)
+
+[Dual Degree Description](https://www.upaep.mx/posgrados/internacionalizacion/oklahoma)
