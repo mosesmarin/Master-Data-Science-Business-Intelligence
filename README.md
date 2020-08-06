@@ -12,8 +12,17 @@
        https://www.datasciencegraduateprograms.com/data-modeling/
 
 * MACHINE LEARNING FOR DATA SCIENCE (7 Credits)
+
+       https://laptrinhx.com/will-data-science-become-automated-1279927131/
+
 * DATA VISUALIZATION (7 Credits)
+
+       https://towardsdatascience.com/10-viz-every-ds-should-know-4e4118f26fc3
+
 * DATA WAREHOUSING AND DATA PROCESSING (7 Credits)
+
+       https://www.educba.com/data-warehousing-vs-data-mining/
+
 * FUNDAMENTALS OF BUSINESS INTELLIGENCE (7 Credits)
 * ANALYTICAL BUSINESS INTELLIGENCE (7 Credits)
 * LEADERSHIP AND SERVICE MISSION (7 Credits)
