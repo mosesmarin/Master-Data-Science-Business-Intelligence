@@ -18,3 +18,6 @@
 
 
 Total Credits: 85
+
+
+[Program Description](https://upaep.mx/maestrias/vc-ciencia-de-datos-e-inteligencia-de-negocios?lang=en)
