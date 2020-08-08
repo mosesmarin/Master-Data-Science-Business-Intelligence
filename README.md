@@ -44,3 +44,7 @@ Total Credits: 85
 [Dual Degree Option 1 - List of Subjects](http://catalog.okstate.edu/graduate-college/masters-degrees/management-information-systems-ms/)
 
 [Dual Degree Option 2 - List of Subjects](https://etm.okstate.edu/node/28)
+
+
+Other Resources:
+https://www.ibm.com/cloud/garage/dte/tutorial/ibmr-watson-studio-mldl-made-easy
