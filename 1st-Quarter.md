@@ -1,13 +1,17 @@
 MACHINE LEARNING FOR DATA SCIENCE 
 
-DR. VITTORIO ZANELLA PALACIOS 
+- DR. VITTORIO ZANELLA PALACIOS 
 
-https://upaep.mx/claustro-academico?pin=9015677&pin2=5013108&pin3=183&nivel=1
-https://www.inaoep.mx/
+- https://upaep.mx/claustro-academico?pin=9015677&pin2=5013108&pin3=183&nivel=1
+- https://www.inaoep.mx/
+
+
 
 
 DATA WAREHOUSING AND DATA PROCESSING
 DRA. ROSA MARIA CANTON CRODA
+
+
 
 
 
