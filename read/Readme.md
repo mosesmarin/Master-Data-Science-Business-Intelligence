@@ -11,3 +11,8 @@
 - https://openai.com/
 
 - https://www.research.ibm.com/index.shtml
+
+
+### Data Sets
+
+- https://dataforgood.fb.com/docs/facebook-data-for-good-publicly-available-data/
